@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rucha Katte</h1>
-<h3 align="center">I’m passionate about finding solutions to problems using tech</h3>
+<h3 align="center">I’m passionate about finding solutions to problems using Tech</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruchakatte&label=Profile%20views&color=0e75b6&style=flat" alt="ruchakatte" /> </p>
 
@@ -21,3 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruchakatte&show_icons=true&locale=en" alt="ruchakatte" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruchakatte&" alt="ruchakatte" /></p>
+[![An image of @ruchakatte's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ruchakatte)](https://holopin.io/@ruchakatte)
