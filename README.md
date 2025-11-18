@@ -20,5 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruchakatte&show_icons=true&locale=en" alt="ruchakatte" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruchakatte&" alt="ruchakatte" /></p>
 [![An image of @ruchakatte's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ruchakatte)](https://holopin.io/@ruchakatte)
