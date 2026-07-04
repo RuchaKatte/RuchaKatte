@@ -1,27 +1,206 @@
-<!-- Gradient Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="center">Hi 👋, I'm Rucha Katte</h1>
-<h3 align="center">I’m passionate about finding solutions to problems using Tech</h3>
+<!-- Header -->
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,50:FCE4EC,100:FFF8F9&height=220&section=header&text=Hey!%20I'm%20Rucha%20Katte%20&fontSize=42&fontColor=6A1B4D&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20B.Tech%20IT&descAlignY=58&descSize=18&animation=fadeIn"/>
+</p>
+
+<!-- Typing Animation -->
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=E91E63&center=true&vCenter=true&width=850&lines=Building+AI+Solutions+for+Real+World+Problems;Machine+Learning+%7C+Computer+Vision+%7C+Deep+Learning;Learning+DSA+One+Problem+at+a+Time;Always+Building.+Always+Learning."/>
+
+</p>
+
+---
+
+# ✨About Me
+
+I'm a B.Tech Information Technology student passionate about building intelligent systems that solve real-world problems.
+
+My interests lie in
+
+- 🤖 Machine Learning
+- 👁 Computer Vision
+- 📊 Data Analytics
+- 🧠 Deep Learning
+- 📈 Artificial Intelligence Research
+
+Currently I'm focused on strengthening my foundations in Data Structures & Algorithms while building impactful AI projects and contributing to open source.
+
+I enjoy documenting my learning journey and continuously improving through projects, hackathons and research.
+
+---
+
+<img src="https://hits.sh/github.com/YOUR_USERNAME/hits.svg?style=flat-square&label=Visitors&color=F48FB1&labelColor=FCE4EC"/>
+
+---
+
+# 🚀 Currently Working On
+
+- 🏆 Actively participating in **ML hackathons and competitions**
+- 💻 Solving DSA 
+- 🤖 AI-based Drone Crop Health Monitoring
+- 🛰 AI for Exoplanet Detection using TESS Light Curves
+- 🌱 Open Source Contributions
+- 📚 Andrew Ng Machine Learning Specialization
+- ✨ Building beautiful GitHub projects with detailed documentation
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,docker&theme=dark"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css&theme=light"/>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,git,github,vscode,linux&theme=light"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lightkurve-0F2027?style=flat-square"/>
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/YOLOv8-E91E63?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/OpenCV-F48FB1?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-FCE4EC?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Pandas-F8BBD0?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/NumPy-F48FB1?style=flat-square"/>
 
 
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruchakatte" alt="ruchakatte" /></a> </p>
+---
+
+# 📂 Featured Projects
+
+### 🤖 AI Loan Sales Chatbot
+
+LLM-powered conversational AI with multi-agent architecture for customer verification and automated loan approval.
+
+---
+
+### 🌱 Carbon Emission Tracker & Analyzer
+
+Machine Learning + Isolation Forest + Blockchain for secure carbon emission monitoring.
+
+---
+
+### ✍ Handwritten Digit Recognition
+
+CNN trained on the MNIST dataset with TensorFlow and a browser-based prediction interface.
+
+---
+
+### 🚁 AI Drone Crop Health Monitoring
+
+Computer Vision pipeline using YOLOv8 and NDVI analysis for precision agriculture.
+
+---
+
+### 🪐 AI Exoplanet Detection
+
+Deep Learning pipeline for detecting exoplanets from noisy TESS light curves.
+
+---
+
+# 📈 Learning Journey
+
+Currently learning
+
+- 🌟 Data Structures & Algorithms
+- ☕ Java for Placements
+- 🧠 Machine Learning
+- 📚 Deep Learning
+- 🏗 System Design
+- ☁ Cloud Fundamentals
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/rucha-katte-73167b314">
+
+<img src="https://img.shields.io/badge/LinkedIn-E91E63?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
 
 
+<a href="https://ruchakatte.github.io/">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-1) LinkedIn: https://www.linkedin.com/in/rucha-katte-73167b314<br>2) Email: ruchakatte@gmail.com
-</p><br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ruchakatte&label=Profile%20views&color=0e75b6&style=flat" alt="ruchakatte" /> </p>
-<!-- Gradient Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://img.shields.io/badge/Portfolio-FCE4EC?style=for-the-badge"/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+</a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruchakatte&show_icons=true&locale=en&layout=compact" alt="ruchakatte" /></p>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruchakatte&show_icons=true&locale=en" alt="ruchakatte" /></p>
+---
 
+# 📊 GitHub Stats
+
+<table width="100%" align="center">
+
+<tr>
+
+<td width="50%">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=rose_pine&hide_border=true"/>
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=rose_pine&hide_border=true"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=rose_pine&hide_border=true&count_private=true"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 💭 Philosophy
+
+<p align="center">
+
+<i>
+
+"Build with curiosity. Learn with consistency. Grow with purpose."
+
+</i>
+
+</p>
+
+---
 [![An image of @ruchakatte's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ruchakatte)](https://holopin.io/@ruchakatte)
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF8F9,50:FCE4EC,100:F8BBD0&height=120&section=footer"/>
+
+</p>
