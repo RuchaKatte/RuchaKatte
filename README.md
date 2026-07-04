@@ -121,7 +121,7 @@ Deep Learning pipeline for detecting exoplanets from noisy TESS light curves.
 Currently learning
 
 - 🌟 Data Structures & Algorithms
-- ☕ Java for Placements
+- ☕ Java 
 - 🧠 Machine Learning
 - 📚 Deep Learning
 - 🏗 System Design
