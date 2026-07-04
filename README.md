@@ -158,13 +158,13 @@ Currently learning
 
 <td width="50%">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=rose_pine&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=RuchaKatte&theme=rose_pine&hide_border=true"/>
 
 </td>
 
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=rose_pine&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuchaKatte&layout=compact&theme=rose_pine&hide_border=true"/>
 
 </td>
 
@@ -174,7 +174,7 @@ Currently learning
 
 <td colspan="2" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=rose_pine&hide_border=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RuchaKatte&show_icons=true&theme=rose_pine&hide_border=true&count_private=true"/>
 
 </td>
 
