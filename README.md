@@ -183,7 +183,8 @@ Currently learning
 </table>
 
 ---
-
+[![An image of @ruchakatte's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ruchakatte)](https://holopin.io/@ruchakatte)
+---
 # 💭 Philosophy
 
 <p align="center">
@@ -196,8 +197,7 @@ Currently learning
 
 </p>
 
----
-[![An image of @ruchakatte's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ruchakatte)](https://holopin.io/@ruchakatte)
+
 
 <p align="center">
 
